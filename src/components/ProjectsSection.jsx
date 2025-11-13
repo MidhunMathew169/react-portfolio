@@ -17,7 +17,7 @@ const projects = [
     description: "Created a Netflix clone in React with secure authentication and movie details integrated via TMDB API.",
     image: "/projects/project2.png",
     tags: ["React", "CSS", "Firebase"],
-    demoUrl: "#",
+    demoUrl: "https://netflix-clone-plum-iota.vercel.app/login",
     githubUrl: "https://github.com/MidhunMathew169/Netflix-clone",
   },
   {
@@ -26,7 +26,7 @@ const projects = [
     description: "Built an OLX-style marketplace with React and Tailwind CSS, enabling authenticated users to list products with images and descriptions.",
     image: "/projects/project3.png",
     tags: ["React", "TailwindCSS", "Firebase"],
-    demoUrl: "#",
+    demoUrl: "https://olx-clone-eta-kohl.vercel.app/",
     githubUrl: "https://github.com/MidhunMathew169/Olx---clone",
   },
   {
